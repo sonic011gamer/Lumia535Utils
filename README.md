@@ -13,7 +13,7 @@ Go to the Flash section under Platform.
 Scroll down to "Flash separate partitions", and select the EFIESP file to flash.
 ![image](https://github.com/sonic011gamer/Lumia535Utils/blob/main/images/Flash.png?raw=true)
 ## Booting into Mass Storage mode
-After flashing, WPinternals will reboot the phone, hold down the Volume down key to get into Developer Menu.
+After flashing, WPinternals will reboot the phone. Press and hold Vol- to get into Developer Menu.
 
 ![image](https://github.com/sonic011gamer/Lumia535Utils/blob/main/images/DeveloperMenu.jpg?raw=true)
 
@@ -25,5 +25,5 @@ When in Developer Menu you will see a few options, the one that interests us is 
 Close any WPinternals window, and open the Unlock.bat, while being in mass storage mode.
 
 ## Booting into EDK2
-If you've flashed the EFIESP with EDK2, just restart your phone, and press the Volume Up button.
+If you've flashed the EFIESP with EDK2, just restart your phone, and press the Vol+ button.
 
