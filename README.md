@@ -3,7 +3,7 @@ Bunch of tools used for the Lumia 535
 
 # How to use
 ## Download the files
-Download the files from the Releases tab, choose which EFIESP you want: Devmenu only is just to unlock, the EDK2 one is for booting Linux and such.
+### Download the files from the [releases](https://github.com/sonic011gamer/Lumia535Utils/tags) tab, choose which EFIESP you want: Devmenu only is just to unlock, the EDK2 one is for booting Linux and such.
 
 ## Flashing the modified EFIESP
 Open Windows Phone Internals, either from the downloaded .zip, or from the [official WPinternals GitHub](https://github.com/ReneLergner/WPinternals).
